@@ -11,3 +11,5 @@
 **Gurup Adı:** Ahmet Karslı
 
 **Proje Ekibi:** Ahmet Karslı
+
+1.[Proje Analizi](https://github.com/ahmetkarslix/SpotifyCloneApp/blob/main/Readme%20Files/Proje%20Planı.jpg)
