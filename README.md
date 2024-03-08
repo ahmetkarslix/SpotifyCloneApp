@@ -13,3 +13,4 @@
 **Proje Ekibi:** Ahmet Karslı
 
 1.[Proje Analizi](https://github.com/ahmetkarslix/SpotifyCloneApp/blob/main/Readme%20Files/Proje%20Planı.jpg)
+2.[Gereksinim Analizi](https://github.com/ahmetkarslix/SpotifyCloneApp/blob/main/Readme%20Files/Gereksinim%20Analizi.txt)
