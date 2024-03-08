@@ -8,14 +8,8 @@ Kullanıcı Gereksinimler
 4. Şarkı Arama
 5. Çalma Listesi Oluşturma
 6. Çalma Listesi Silme
-
-
-
-
-
-ADMİN Gereksinimleri
-1-Kullanıcı Hesabı Güncelleme
-2-Kullanıcı Hesabı Silme
-3-Şarkı Ekleme
-4-Şarkı Silme
-5-Şarkı Bilgisi Düzenleme
+7. Kullanıcı Hesabı Güncelleme
+8. Kullanıcı Hesabı Silme
+9. Şarkı Ekleme
+10. Şarkı Silme
+11. Şarkı Bilgisi Düzenleme
