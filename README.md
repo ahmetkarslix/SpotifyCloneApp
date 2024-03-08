@@ -12,7 +12,7 @@
 
 **Proje Ekibi:** Ahmet Karslı
 
-  1. [Proje Planı](Readme Files/Gereksinim Analizi.md)
+  1. [Proje Planı](Readme_Files/Gereksinim_Analizi.md)
   2. [Gereksinim Analizi](https://github.com/ahmetkarslix/SpotifyCloneApp/blob/main/Readme%20Files/Gereksinim%20Analizi.txt)
   3. [Durum Diyagramı] 
   4. [Durum Senaryoları]
