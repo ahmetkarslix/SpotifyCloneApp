@@ -13,3 +13,7 @@ Kullanıcı Gereksinimler
 9. Şarkı Ekleme
 10. Şarkı Silme
 11. Şarkı Bilgisi Düzenleme
+
+
+#Gereksinimlerin Açıklamaları
+[Gereksinim Analizi Sayfası](Gereksinimler.md)
