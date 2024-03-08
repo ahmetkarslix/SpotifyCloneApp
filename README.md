@@ -8,9 +8,29 @@
 
 **Uygulama İsmi:** Spotify Clone App // Ahmetify
 
-**Gurup Adı:** Ahmet Karslı
+**Grup Adı:** Ahmet Karslı
 
 **Proje Ekibi:** Ahmet Karslı
 
-1.[Proje Analizi](https://github.com/ahmetkarslix/SpotifyCloneApp/blob/main/Readme%20Files/Proje%20Planı.jpg)
+1.[Proje Planı](https://github.com/ahmetkarslix/SpotifyCloneApp/blob/main/Readme%20Files/Proje%20Planı.jpg)
 2.[Gereksinim Analizi](https://github.com/ahmetkarslix/SpotifyCloneApp/blob/main/Readme%20Files/Gereksinim%20Analizi.txt)
+
+
+
+# GEREKSİNİMLER
+
+Kullanıcı Gereksinimler
+1-Kayıt Olma
+2-Giriş Yapma
+3-Profil Güncelleme
+4-Şarkı Arama
+5-Çalma Listesi Oluşturma
+6-Çalma Listesi Silme
+
+
+ADMİN Gereksinimleri
+1-Kullanıcı Hesabı Güncelleme
+2-Kullanıcı Hesabı Silme
+3-Şarkı Ekleme
+4-Şarkı Silme
+5-Şarkı Bilgisi Düzenleme
