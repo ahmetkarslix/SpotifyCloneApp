@@ -1,3 +1,5 @@
+# Gereksinim Analizi Sayfası
+
 1. Kayıt Olma:
 Kullanıcıların yeni bir hesap oluşturabilmesi için kayıt formunu doldurarak sisteme kaydolmalarını sağlar. Kayıt işlemi, e-posta adresi, kullanıcı adı, doğum tarihi ve parola bilgilerinin sağlanmasıyla gerçekleşir. Bu bilgiler veri tabanında saklanır ve kullanıcı kimlik doğrulaması için kullanılır.
 
