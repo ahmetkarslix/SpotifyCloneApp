@@ -14,7 +14,7 @@
 
   1. [Proje Planı](ReadmeFiles/ProjePlanı.md)
   2. [Gereksinim Analizi](ReadmeFiles/GereksinimAnalizi.md)
-  3. [Durum Diyagramı] 
+  3. [Durum Diyagramı](ReadmeFiles/DurumDiyagramı.md)
   4. [Durum Senaryoları]
   5. [Veritabanı Diyagramı]
   6. [Front-End]
