@@ -16,7 +16,7 @@
   2. [Gereksinim Analizi](ReadmeFiles/GereksinimAnalizi.md)
   3. [Durum Diyagramı](ReadmeFiles/DurumDiyagramı.md)
   4. [Durum Senaryoları](ReadmeFiles/KullanımSeneryoları.pdf)
-  5. [Veritabanı Diyagramı]
+  5. [Veritabanı Diyagramı](ReadmeFiles/VeritabanıDiyagramı.md)
   6. [Front-End]
   7. [Back-End]
   8. [Test]
