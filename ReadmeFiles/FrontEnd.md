@@ -1,6 +1,6 @@
 <h5>Kullanılan Front End Çatısı: SwiftUI</h5> 
 
-<h5>[Tasarım Videosu](https://www.youtube.com/watch?v=6flZ7p4NSEY)</h5>
+[Tasarım Videosu](https://www.youtube.com/watch?v=6flZ7p4NSEY)
 
 <h2>Tasarımlar</h2>
 
