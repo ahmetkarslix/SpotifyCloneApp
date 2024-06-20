@@ -1,3 +1,5 @@
+<h5>Docker Kullanımı: Docker Kullanılarak PostgreSQL kullanıldı.</h5>
+
 <h3>Back End<h3>
 
 
