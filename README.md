@@ -17,7 +17,7 @@
   3. [Durum Diyagramı](ReadmeFiles/DurumDiyagramı.md)
   4. [Durum Senaryoları](ReadmeFiles/KullanımSeneryoları.pdf)
   5. [Veritabanı Diyagramı](ReadmeFiles/VeritabanıDiyagramı.md)
-  6. [Front-End]
+  6. [Front-End](ReadmeFiles/FrontEnd.md)
   7. [Back-End]
   8. [Test]
   9. [Geliiştirici ve Kullanıcı Dökümantasyonları]
