@@ -19,5 +19,5 @@
   5. [Veritabanı Diyagramı](ReadmeFiles/VeritabanıDiyagramı.md)
   6. [Front-End](ReadmeFiles/FrontEnd.md)
   7. [Back-End](ReadmeFiles/BackEnd.md)
-  8. [Test]
+  8. [Test](ReadmeFiles/Test.md)
   9. [Geliiştirici ve Kullanıcı Dökümantasyonları](https://spotify-clone-ahmetify.gitbook.io/spotifyclone-ahmetify/)
