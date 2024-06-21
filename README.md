@@ -12,6 +12,8 @@
 
 **Proje Ekibi:** Ahmet Karslı
 
+**Uygulama Adresi:** [Spotify Clone // Ahmetify](https://www.youtube.com/watch?v=kWiiXqqdk0E)
+
   1. [Proje Planı](ReadmeFiles/ProjePlanı.md)
   2. [Gereksinim Analizi](ReadmeFiles/GereksinimAnalizi.md)
   3. [Durum Diyagramı](ReadmeFiles/DurumDiyagramı.md)
